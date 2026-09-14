@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787252808323,
+      "tag": "0000_tricky_namorita",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787421479853,
+      "tag": "0001_slim_serpent_society",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787607511129,
+      "tag": "0002_real_outlaw_kid",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1787613022113,
+      "tag": "0003_gifted_ricochet",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1788016263168,
+      "tag": "0004_deep_shinko_yamashiro",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1788167442636,
+      "tag": "0005_equal_doctor_faustus",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+name: Feature request / Propuesta
+description: Explain a reading or study workflow that could improve.
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: The problem or workflow / Problema o flujo
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement and alternatives / Propuesta y alternativas
+    validations:
+      required: true

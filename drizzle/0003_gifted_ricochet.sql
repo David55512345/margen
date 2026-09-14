@@ -1,0 +1,1 @@
+ALTER TABLE `reader_notes` ADD `highlight_id` text;
